@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1495570843 source:c:\users\lu\desktop\polimorfismo\main.cpp
+	<iostream>
+	"Alumno.h"
+	"Persona.h"
+	"Profesor.h"
+
+1495570271 source:c:\users\lu\desktop\polimorfismo\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1495571220 c:\users\lu\desktop\polimorfismo\include\persona.h
+	<iostream>
+	<string>
+	<vector>
+
+1495551286 source:c:\users\lu\desktop\polimorfismo\src\profesor.cpp
+	"Profesor.h"
+
+1495571244 c:\users\lu\desktop\polimorfismo\include\profesor.h
+	"Persona.h"
+
+1495571170 source:c:\users\lu\desktop\polimorfismo\src\alumno.cpp
+	"Alumno.h"
+	<iostream>
+
+1495571183 c:\users\lu\desktop\polimorfismo\include\alumno.h
+	"Persona.h"
+
