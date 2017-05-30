@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\lu\desktop\practica\main.cpp
+	<iostream>
+
+1495811623 source:c:\users\lu\desktop\practica\src\conserge.cpp
+	"Conserge.h"
+
+1495811623 c:\users\lu\desktop\practica\include\conserge.h
+
+1495811606 source:c:\users\lu\desktop\practica\src\gerente.cpp
+	"Gerente.h"
+
+1495814929 c:\users\lu\desktop\practica\include\gerente.h
+	<iostream>
+	<string>
+
+1495813693 source:c:\users\lu\desktop\practica\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1495813604 c:\users\lu\desktop\practica\include\birthday.h
+
+1496156463 source:c:\users\lu\desktop\practica\src\arreglo.cpp
+	"Arreglo.h"
+
+1496156462 c:\users\lu\desktop\practica\include\arreglo.h
+
