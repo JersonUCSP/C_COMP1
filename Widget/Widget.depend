@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1496695642 source:c:\users\lu\desktop\widget\main.cpp
+	<iostream>
+	<vector>
+	"Widget.h"
+	"Gadget.h"
+	"Gizmo.h"
+
+1496695425 source:c:\users\lu\desktop\widget\src\gadget.cpp
+	"Gadget.h"
+
+1496695165 c:\users\lu\desktop\widget\include\gadget.h
+	"Widget.h"
+
+1496695713 c:\users\lu\desktop\widget\include\widget.h
+	<iostream>
+
+1496695425 source:c:\users\lu\desktop\widget\src\gizmo.cpp
+	"Gizmo.h"
+
+1496695219 c:\users\lu\desktop\widget\include\gizmo.h
+	"Widget.h"
+
+1496695404 source:c:\users\lu\desktop\widget\src\widget.cpp
+	"Widget.h"
+
