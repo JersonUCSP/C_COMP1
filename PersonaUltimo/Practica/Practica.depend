@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1496689115 source:c:\users\lu\desktop\practica\main.cpp
+	<iostream>
+	"Persona.h"
+	"Gerente.h"
+	"Conserge.h"
+	"Birthday.h"
+	<vector>
+
+1496688223 source:c:\users\lu\desktop\practica\src\conserge.cpp
+	"Conserge.h"
+	"Birthday.h"
+	"Persona.h"
+	<iostream>
+
+1496689099 c:\users\lu\desktop\practica\include\conserge.h
+	"Birthday.h"
+	"Persona.h"
+
+1496688660 source:c:\users\lu\desktop\practica\src\gerente.cpp
+	"Gerente.h"
+	<iostream>
+
+1496687686 c:\users\lu\desktop\practica\include\gerente.h
+	"Persona.h"
+
+1496421042 source:c:\users\lu\desktop\practica\src\birthday.cpp
+
+1496421042 c:\users\lu\desktop\practica\include\birthday.h
+
+1496420959 source:c:\users\lu\desktop\practica\src\arreglo.cpp
+	"Arreglo.h"
+
+1496420440 c:\users\lu\desktop\practica\include\arreglo.h
+
+1496688156 c:\users\lu\desktop\practica\include\persona.h
+	"Birthday.h"
+	<string>
+	<iostream>
+
+1496687739 source:c:\users\lu\desktop\practica\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1496689115 source:c:\users\lu\desktop\persona\practica\main.cpp
+	<iostream>
+	"Persona.h"
+	"Gerente.h"
+	"Conserge.h"
+	"Birthday.h"
+	<vector>
+
+1496761045 c:\users\lu\desktop\persona\practica\include\persona.h
+	"Birthday.h"
+	<string>
+	<iostream>
+
+1496687686 c:\users\lu\desktop\persona\practica\include\gerente.h
+	"Persona.h"
+
+1496760677 c:\users\lu\desktop\persona\practica\include\conserge.h
+	"Birthday.h"
+	"Persona.h"
+
+1496761876 source:c:\users\lu\desktop\persona\practica\src\conserge.cpp
+	"Conserge.h"
+	"Birthday.h"
+	"Persona.h"
+	<iostream>
+
+1496761828 source:c:\users\lu\desktop\persona\practica\src\gerente.cpp
+	"Gerente.h"
+	<iostream>
+
+1496760496 source:c:\users\lu\desktop\persona\practica\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1496762174 c:\users\lu\desktop\persona\practica\include\birthday.h
+	<string>
+	<iostream>
+
+1496762147 source:c:\users\lu\desktop\persona\practica\src\birthday.cpp
+	"Birthday.h"
+
